@@ -1,0 +1,5 @@
+{
+  "name": "AgriLearn: Continual Crop Disease AI",
+  "description": "A simulation and visualization platform for Continual Learning (EWC) in crop disease classification under seasonal data drift.",
+  "requestFramePermissions": []
+}
